@@ -1,0 +1,7 @@
+0001,pomidor,1.25
+0002,lizak,0.5
+0003,zeszyt,3.0
+0004,sok jablkowy,4.0
+0005,pomidor,1.25
+0006,bgsd,6.0
+0007,kokos,10.0
